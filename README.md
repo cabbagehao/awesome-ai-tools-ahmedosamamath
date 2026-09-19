@@ -297,6 +297,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free basic features.
    - **Link**: [Visit Kickresume](https://www.kickresume.com)
 
+1. **ResumeAI**  
+   - **Description**: Free ATS resume checker and open State of ATS 2026 dataset (738 employers, Workday 37.9%).
+   - **Pricing**: Free tier (3/day anonymous, 10/day free account)
+   - **Trial Period**: Free to use without signup for limited checks.
+   - **Link**: [Visit ResumeAI](https://withresumeai.com/)
+
 2. **CVlogin**  
    - **Description**: AI-assisted resume creation and optimization tool.
    - **Pricing**: Freemium
